@@ -4,7 +4,7 @@ This project demonstrates the design and implementation of a basic network using
 
 ## Project Overview
 
-In this network topology, a DHCP server is used to automatically assign IP addresses to client devices (such as PCs and laptops), ensuring that each device receives a unique IP address without the need for manual configuration. This project aims to simplify the management of IP addresses within a network using dynamic allocation via DHCP.
+In this network topology, a DHCP server is used to automatically assign IP addresses to client devices ( PCs ), ensuring that each device receives a unique IP address without the need for manual configuration. This project aims to simplify the management of IP addresses within a network using dynamic allocation via DHCP.
 
 ## Features
 - **DHCP Server**: Automatically assigns IP addresses, subnet masks, default gateways, and DNS server addresses to devices.
